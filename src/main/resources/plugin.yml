@@ -1,0 +1,9 @@
+name: InventoryOverflow
+version: '${project.version}'
+main: inventoryoverflow.inventoryoverflow.InventoryOverflow
+authors: [ OGTime ]
+
+commands:
+  collect:
+    description: Collect all the excess loot.
+    usage: /collect
